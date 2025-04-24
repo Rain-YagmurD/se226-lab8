@@ -1,0 +1,6 @@
+Book,B001,Deep Learning,2018,Ian Goodfellow,775
+Book,B002,Clean Code,2020,Robert Martin,464
+Article,A101,Quantum Computing,2022,Nature,10.1234/qc567
+Article,A102,Neural Networks,2019,IEEE,10.5678/nn999
+Podcast,P301,TechTalk AI,2023,Jane Doe,45
+Podcast,P302,History Hour,2015,John Smith,60
